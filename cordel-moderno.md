@@ -1,5 +1,6 @@
-Cordel Moderno
-Por Milton Duarte
+# Cordel Moderno
+
+## Por Milton Duarte
 [SITE: https://www.recantodasletras.com.br/poesias/3186743]
 
 Estou ficando cansado
@@ -10,8 +11,6 @@ Twitter e Facebook
 Antes que eu caduque
 Vou dizer tudo em poesia.
 
-//---
-
 Não é mais como era antes
 É tudo abreviado
 "Você" só tem duas letras
@@ -19,8 +18,6 @@ O "O" e o "E" foi riscado
 Para declarar o amor
 Basta botar uma flor
 E um coração desenhado.
-
-//---
 
 Arroba agora não pesa
 É parte de um endereço
@@ -38,8 +35,6 @@ Um beijo significa
 Pra entender como fica
 Decifre esse rabisco.
 
-//---
-
 Tenho saudade das cartas
 Escritas com a própria mão
 Mandava no mês de Junho
@@ -47,8 +42,6 @@ Só chegava no Verão
 Mas matava a saudade
 Era texto de verdade
 Nas linhas do coração.
-
-//---
 
 Agora, escrevo e envio
 Chegando na mesma hora
