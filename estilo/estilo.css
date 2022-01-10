@@ -16,20 +16,19 @@
 
 html, body {
     min-height: 100vh;
-    background-color: darkgray;
     font-family: var(--fontePadrao);
 }
 
 header {
+    padding: 5% 0;
     background-color: black;
     color: white;
     text-align: center;
-    padding: 5%;
 }
 
 header > h1 {
-    font-variant: small-caps;
     font-family: var(--fonteTitulo);
+    font-variant: small-caps;
     font-size: 10vw;
 }
 
@@ -55,7 +54,7 @@ section {
 }
 
 section > p {
-    padding: 1em 0;
+    padding: 2%;
 }
 
 section.normal {
@@ -66,7 +65,7 @@ section.normal {
 section.imagem {
     background-color: rgba(0, 0, 0, 0.8);
     color: white;
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.8);
     background-size: cover;
     background-position: right center;
     background-attachment: fixed;
@@ -74,9 +73,8 @@ section.imagem {
 
 section.imagem > p {
     display: inline-block;
-    padding: 1%;
     background-color: rgba(0, 0, 0, 0.5);
-    text-shadow: 2px 2px 0px black;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.8);
 }
 
 section#imagem01 {
@@ -88,8 +86,8 @@ section#imagem02 {
 }
 
 footer {
+    padding: 2%;
     background-color: black;
     text-align: center;
     color: white;
-    padding: 2%;
 }
